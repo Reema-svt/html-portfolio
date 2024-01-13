@@ -1,2 +1,2 @@
-# Resume_with_html
+# html-portfolio
 Resume page created with HTML
